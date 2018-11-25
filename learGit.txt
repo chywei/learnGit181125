@@ -1,0 +1,3 @@
+this is my first learnint git.
+my team is www.
+This is a team about IT.
