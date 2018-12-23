@@ -1,5 +1,6 @@
 this is my first learnint git.
 my team is www.
 ^&**(^%$$$$i am in the branch chyw&&&&ei&.
-20181215i am in chywei001.
-000000000000002222222
+
+	i am in chywei001.
+	i am in 2018.12.23`
